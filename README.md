@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours pédagogique en français présente le compilateur Solidity, l’ABI, le stockage, l’IR/Yul, le bytecode, l’optimisation et les contrôles de sécurité. Voir [docs/fr/README.md](docs/fr/README.md).
+
 # The Solidity Contract-Oriented Programming Language
 
 [![Matrix Chat](https://img.shields.io/badge/Matrix%20-chat-brightgreen?style=plastic&logo=matrix)](https://matrix.to/#/#ethereum_solidity:gitter.im)
